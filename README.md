@@ -7,3 +7,6 @@ Resources:
 https://hexcolor.co/gradient-colors
 
 https://www.jsdelivr.com/package/gh/davidshimjs/qrcodejs
+
+
+![qrcodegen](https://github.com/jordanpaulperalta/QRCodeGenerator/assets/92407629/d1d6d70e-73bc-4651-9104-352765369c38)
